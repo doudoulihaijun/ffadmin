@@ -1,21 +1,26 @@
 # ffadmin
+ffadmin是一套后台开发UI框架
+#技术栈：
+（1）vue-cli
+（2）element-ui
+（3）vue
+（4）html+css
+ (5)java
+ (6)springboot2.0
+ 等等
+#用途
+（1）新手可以用来学习前端vue与element的知识；
+（2）后台人员可以用来了解前端知识，并为自己的产品搭建框架；
+（3）企业可以快速使用框架搭建自己的后台管理系统，用来相应需求；
+（4）极简的框架，让前端与后台人员有更大的自由发挥空间；
 
-> A Vue.js project
+#学习
+纯属个人需要搭建的框架，也希望有更多的朋友与我一起更多的完善此项目
+让我们打造出更晚上的项目，给更多的人员使用吧。
 
-## Build Setup
+#联系方式：
+13811348632
+531677565@qq.com
+微信公众号：JAVA34567
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
