@@ -2,7 +2,39 @@
   <div class="astop">
     <div class="nav">
       <div id="myChart" :style="{width: '500px', height: '300px'}"></div>
-      <div id="ssssss" :style="{width: '500px', height: '300px'}"></div>
+      <!-- 饼状图效果直接打开就能使用案例 -->
+      <!-- <div id="ssssss" :style="{width: '500px', height: '300px'}"></div> -->
+      <div id="ssssss" :style="{width: '500px', height: '300px'}">
+
+        <ul class="github">
+          <li>
+             <h2>ffadmin是一套后台开发UI框架</h2>
+          </li>
+          <li>
+            1、新手可以用来学习前端vue与element的知识；
+          </li>
+          <li>
+            2、后台人员可以用来了解前端知识，并为自己的产品搭建框架；
+          </li>
+          <li>
+            3、快速使用框架搭建自己的后台管理系统，用来响应需求；
+          </li>
+          <li>
+            4、极简的框架，让前端与后台人员有更大的自由发挥空间；
+          </li>
+          <li>
+            <h2>关注官网或github随时下载最新版</h2>
+          </li>
+          <li>
+            <h3>https://github.com/doudoulihaijun/ffadmin</h3>
+          </li>
+
+
+
+        </ul>
+
+      </div>
+
     </div>
     <div class="nav zanzhu">
         <div>
@@ -63,7 +95,8 @@
     },
     mounted(){
       this.drawLine();
-      this.ssssss();
+      // 饼状图效果直接打开就能使用案例
+      //this.ssssss();
     },
     methods: {
 
@@ -157,6 +190,10 @@
 
 <style>
 
+.github{
+   text-align: left;
+   line-height: 30px;
+}
 
   .nav{
     display:flex;

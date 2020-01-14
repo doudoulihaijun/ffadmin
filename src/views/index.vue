@@ -6,7 +6,7 @@
         <el-row :gutter="20">
           <div class="divheader">
             <div class="div1">
-              <img style="width: 60px;height: 60px;" src="../assets/logo.png" />
+              <img style="width: 60px;height: 60px;" src="../../static/logo/logo.png" />
             </div>
             <div class="div2">
                  数据维护管理系统
