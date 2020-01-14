@@ -1,13 +1,15 @@
 # ffadmin
 ffadmin是一套后台开发UI框架
-#技术栈：
-（1）vue-cli
-（2）element-ui
-（3）vue
-（4）html+css
- (5)java
- (6)springboot2.0
- 等等
+
+技术栈：
+	vue-cli
+	element-ui
+	vue
+	html+css
+	java
+	springboot2.0
+	等等
+
 #用途
 （1）新手可以用来学习前端vue与element的知识；
 （2）后台人员可以用来了解前端知识，并为自己的产品搭建框架；
