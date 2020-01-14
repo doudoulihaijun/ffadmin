@@ -7,7 +7,7 @@ import indexview from '@/views/indexview.vue'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history',//去掉#号
+ // mode: 'history',//去掉#号
   routes: [
     {
       path: '/',

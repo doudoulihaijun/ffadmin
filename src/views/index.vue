@@ -131,7 +131,7 @@
       border: 1px solid #D0D0D0;
       color: #333;
       text-align: center;
-      padding: 0px;
+      padding: 0px!important;
     }
 
     /**css3有一个直接调用的css，保证隐藏滚动条的同时还可以继续通过滚轮向下翻**/
